@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: kidney-tumor-clf
+Version: 1.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/nilaykarade/Kidney-Tumor-Classification
+Author: nilaykarade
+Author-email: nilaykarade@gmail.com
+Project-URL: Bug Tracker, https://github.com/nilaykarade/Kidney-Tumor-Classification/issues
+
+# Kidney-Tumor-Classification
